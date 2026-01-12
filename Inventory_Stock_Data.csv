@@ -1,22 +1,51 @@
-
-SKU_ID,Item_Name,Category_ABC,Current_Stock,Reorder_Level,Unit_Cost_INR,Total_Value_INR,Status,Last_Restock_Date
-WH-699,Industrial Generator,A,3,5,50000,150000,⚠️ Reorder Now,2025-12-09
-WH-183,Forklift Battery,A,1,4,12000,12000,⚠️ Reorder Now,2026-01-07
-WH-562,Hydraulic Pump,A,3,3,25000,75000,⚠️ Reorder Now,2026-01-11
-WH-803,Premium Packaging Box,B,55,21,200,11000,✅ In Stock,2026-01-03
-WH-269,Logistics Pallet,B,31,16,1500,46500,✅ In Stock,2025-12-15
-WH-362,Stretch Wrap Roll,B,47,32,800,37600,✅ In Stock,2025-12-10
-WH-398,Safety Gloves,C,376,97,50,18800,✅ In Stock,2025-12-09
-WH-428,Adhesive Tape,C,644,133,20,12880,✅ In Stock,2026-01-09
-WH-690,Barcode Labels,C,976,79,5,4880,✅ In Stock,2025-12-12
-WH-169,Cleaning Solvent,C,140,91,150,21000,✅ In Stock,2025-11-17
-WH-227,Safety Helmets,B,69,30,450,31050,✅ In Stock,2025-12-23
-WH-818,Shipping Labels,C,708,198,2,1416,✅ In Stock,2025-12-23
-WH-382,Hand Trolley,B,74,27,3500,259000,✅ In Stock,2026-01-11
-WH-919,Conveyor Belt Part,A,6,2,18000,108000,✅ In Stock,2025-12-21
-WH-933,LED Bay Light,B,94,36,1200,112800,✅ In Stock,2025-12-02
-WH-113,Corrugated Box (L),B,88,30,180,15840,✅ In Stock,2025-12-01
-WH-381,Bubble Wrap 100m,C,405,97,300,121500,✅ In Stock,2025-12-29
-WH-586,Strapping Tool,A,7,2,8500,59500,✅ In Stock,2025-11-13
-WH-853,First Aid Kit,C,968,192,450,435600,✅ In Stock,2025-11-18
-WH-986,Fire Extinguisher,B,64,20,2500,160000,✅ In Stock,2025-12-16
+SKU_ID,Item_Name,Category,Current_Stock,Reorder_Level,Unit_Cost,Lead_Time_Days,Status
+SKU-1001,Fire Extinguisher Type-Z,A,15,5,20316,28,✅ In Stock
+SKU-1002,Cleaning Fluid Type-Z,B,50,30,6210,19,✅ In Stock
+SKU-1003,Shipping Label Type-Z,C,833,150,274,3,⚠️ Overstocked
+SKU-1004,Conveyor Belt Type-Y,A,1,5,34752,39,⚠️ Reorder Now
+SKU-1005,Steel Rack Type-X,B,81,30,5472,13,✅ In Stock
+SKU-1006,LED Light Type-Y,B,38,30,6017,21,✅ In Stock
+SKU-1007,Cleaning Fluid Type-Y,A,6,5,39556,37,✅ In Stock
+SKU-1008,Pallet Jack Type-X,A,0,5,19290,29,⛔ Out of Stock
+SKU-1009,Cleaning Fluid Type-X,A,2,5,14301,34,⚠️ Reorder Now
+SKU-1010,First Aid Kit Type-Y,A,8,5,18804,16,✅ In Stock
+SKU-1011,Generator Type-X,C,523,150,139,2,⚠️ Overstocked
+SKU-1012,Generator Type-X,B,26,30,4551,10,⚠️ Reorder Now
+SKU-1013,Packaging Box Type-Z,A,4,5,10721,25,⚠️ Reorder Now
+SKU-1014,Stretch Wrap Type-X,C,578,150,142,4,⚠️ Overstocked
+SKU-1015,Hydraulic Pump Type-Z,B,77,30,5233,18,✅ In Stock
+SKU-1016,Cleaning Fluid Type-X,B,60,30,3271,7,✅ In Stock
+SKU-1017,Cooling Fan Type-Y,B,27,30,6881,10,⚠️ Reorder Now
+SKU-1018,Generator Type-Y,B,44,30,1706,8,✅ In Stock
+SKU-1019,Wrench Set Type-Z,B,58,30,5499,19,✅ In Stock
+SKU-1020,Wrench Set Type-Y,A,13,5,45912,21,✅ In Stock
+SKU-1021,Drill Machine Type-Y,C,741,150,28,2,⚠️ Overstocked
+SKU-1022,Cleaning Fluid Type-X,A,14,5,32031,31,✅ In Stock
+SKU-1023,LED Light Type-X,A,10,5,45933,41,✅ In Stock
+SKU-1024,Steel Rack Type-Y,B,46,30,5199,12,✅ In Stock
+SKU-1025,Stretch Wrap Type-Y,B,84,30,6015,20,✅ In Stock
+SKU-1026,Generator Type-Y,B,46,30,3967,18,✅ In Stock
+SKU-1027,Hydraulic Pump Type-X,B,64,30,4205,16,✅ In Stock
+SKU-1028,Wrench Set Type-Z,C,486,150,472,7,⚠️ Overstocked
+SKU-1029,Safety Gloves Type-Y,C,315,150,34,7,✅ In Stock
+SKU-1030,Hydraulic Pump Type-Z,B,21,30,3604,16,⚠️ Reorder Now
+SKU-1031,Stretch Wrap Type-Z,C,974,150,172,4,⚠️ Overstocked
+SKU-1032,Steel Rack Type-Z,A,15,5,47048,24,✅ In Stock
+SKU-1033,Hydraulic Pump Type-Z,B,32,30,7757,16,✅ In Stock
+SKU-1034,Packaging Box Type-X,C,299,150,102,2,✅ In Stock
+SKU-1035,Stretch Wrap Type-Y,A,6,5,30184,25,✅ In Stock
+SKU-1036,Cooling Fan Type-Z,A,4,5,37638,38,⚠️ Reorder Now
+SKU-1037,Barcode Scanner Type-Y,C,465,150,361,2,⚠️ Overstocked
+SKU-1038,Generator Type-Y,B,68,30,5181,10,✅ In Stock
+SKU-1039,Generator Type-Z,B,47,30,2482,12,✅ In Stock
+SKU-1040,Fire Extinguisher Type-Y,B,61,30,4036,21,✅ In Stock
+SKU-1041,Cooling Fan Type-Y,C,871,150,282,3,⚠️ Overstocked
+SKU-1042,Stretch Wrap Type-Z,A,3,5,43202,28,⚠️ Reorder Now
+SKU-1043,Cooling Fan Type-Z,C,340,150,481,2,✅ In Stock
+SKU-1044,First Aid Kit Type-X,A,2,5,22583,44,⚠️ Reorder Now
+SKU-1045,Cleaning Fluid Type-Z,C,506,150,436,3,⚠️ Overstocked
+SKU-1046,Safety Gloves Type-Z,B,98,30,7594,19,⚠️ Overstocked
+SKU-1047,Pallet Jack Type-Z,A,0,5,48087,35,⛔ Out of Stock
+SKU-1048,Packaging Box Type-X,B,42,30,5880,13,✅ In Stock
+SKU-1049,Wrench Set Type-Y,C,200,150,416,3,✅ In Stock
+SKU-1050,Cooling Fan Type-Y,B,79,30,3126,7,✅ In Stock
