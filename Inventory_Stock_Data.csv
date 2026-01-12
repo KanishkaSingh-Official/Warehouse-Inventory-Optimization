@@ -1,0 +1,22 @@
+
+SKU_ID,Item_Name,Category_ABC,Current_Stock,Reorder_Level,Unit_Cost_INR,Total_Value_INR,Status,Last_Restock_Date
+WH-699,Industrial Generator,A,3,5,50000,150000,⚠️ Reorder Now,2025-12-09
+WH-183,Forklift Battery,A,1,4,12000,12000,⚠️ Reorder Now,2026-01-07
+WH-562,Hydraulic Pump,A,3,3,25000,75000,⚠️ Reorder Now,2026-01-11
+WH-803,Premium Packaging Box,B,55,21,200,11000,✅ In Stock,2026-01-03
+WH-269,Logistics Pallet,B,31,16,1500,46500,✅ In Stock,2025-12-15
+WH-362,Stretch Wrap Roll,B,47,32,800,37600,✅ In Stock,2025-12-10
+WH-398,Safety Gloves,C,376,97,50,18800,✅ In Stock,2025-12-09
+WH-428,Adhesive Tape,C,644,133,20,12880,✅ In Stock,2026-01-09
+WH-690,Barcode Labels,C,976,79,5,4880,✅ In Stock,2025-12-12
+WH-169,Cleaning Solvent,C,140,91,150,21000,✅ In Stock,2025-11-17
+WH-227,Safety Helmets,B,69,30,450,31050,✅ In Stock,2025-12-23
+WH-818,Shipping Labels,C,708,198,2,1416,✅ In Stock,2025-12-23
+WH-382,Hand Trolley,B,74,27,3500,259000,✅ In Stock,2026-01-11
+WH-919,Conveyor Belt Part,A,6,2,18000,108000,✅ In Stock,2025-12-21
+WH-933,LED Bay Light,B,94,36,1200,112800,✅ In Stock,2025-12-02
+WH-113,Corrugated Box (L),B,88,30,180,15840,✅ In Stock,2025-12-01
+WH-381,Bubble Wrap 100m,C,405,97,300,121500,✅ In Stock,2025-12-29
+WH-586,Strapping Tool,A,7,2,8500,59500,✅ In Stock,2025-11-13
+WH-853,First Aid Kit,C,968,192,450,435600,✅ In Stock,2025-11-18
+WH-986,Fire Extinguisher,B,64,20,2500,160000,✅ In Stock,2025-12-16
